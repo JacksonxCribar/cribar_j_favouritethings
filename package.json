@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JacksonxCribar/cribar_j_favouritethings/issues"
   },
-  "homepage": "https://github.com/JacksonxCribar/cribar_j_favouritethings#readme"
+  "homepage": "https://github.com/JacksonxCribar/cribar_j_favouritethings#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
