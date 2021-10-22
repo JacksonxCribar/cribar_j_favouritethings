@@ -1,0 +1,25 @@
+{
+  "name": "cribar_j_favouritethings",
+  "version": "1.0.0",
+  "description": "adding npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonxCribar/cribar_j_favouritethings.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package",
+    "management"
+  ],
+  "author": "JC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacksonxCribar/cribar_j_favouritethings/issues"
+  },
+  "homepage": "https://github.com/JacksonxCribar/cribar_j_favouritethings#readme"
+}
